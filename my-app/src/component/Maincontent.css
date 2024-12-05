@@ -1,0 +1,32 @@
+.main-content {
+  flex: 1;
+  background-color: #eef4fa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  margin: 10px 0;
+}
+
+.description {
+  max-width: 400px;
+  margin: 10px 0;
+}
+
+.encryption {
+  font-size: 14px;
+  color: #555;
+  margin-top: 20px;
+}
+
+.placeholder-image {
+  width: 400px;
+  height: 200px;
+  margin-bottom: 20px;
+}
